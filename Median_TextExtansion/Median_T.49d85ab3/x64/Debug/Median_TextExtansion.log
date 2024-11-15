@@ -1,2 +1,2 @@
-﻿  Median_TextExtansion.cpp
-  Median_TextExtansion.vcxproj -> C:\Users\admin\Documents\GitHub\Median\Median_TextExtansion\x64\Debug\Median_TextExtansion.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Median_T.49d85ab3\x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Median_TextExtansion.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Median_TextExtansion.vcxproj -> C:\Users\admin\Documents\GitHub\Median\Median_TextExtansion\x64\Debug\Median_TextExtеnsion.exe

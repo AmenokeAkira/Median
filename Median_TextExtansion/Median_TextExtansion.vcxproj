@@ -24,6 +24,7 @@
     <ProjectGuid>{49d85ab3-c4fb-455f-ba6d-7b3a782de76a}</ProjectGuid>
     <RootNamespace>MedianTextExtansion</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Median_TextExtеnsion</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
