@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\Median\\Median_TextExtansion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49D85AB3-C4FB-455F-BA6D-7B3A782DE76A}|Median_TextExtansion.vcxproj|C:\\Users\\admin\\Documents\\GitHub\\Median\\Median_TextExtansion\\Median_TextExtansion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49D85AB3-C4FB-455F-BA6D-7B3A782DE76A}|Median_TextExtansion.vcxproj|solutionrelative:Median_TextExtansion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Median_TextExtansion.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\Median\\Median_TextExtansion\\Median_TextExtansion.cpp",
+              "RelativeDocumentMoniker": "Median_TextExtansion.cpp",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\Median\\Median_TextExtansion\\Median_TextExtansion.cpp",
+              "RelativeToolTip": "Median_TextExtansion.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T20:47:40.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
